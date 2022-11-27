@@ -29,28 +29,36 @@ This is a web based application developed for health related based website in in
 ### home
 
    
-![Screenshot (120)](https://user-images.githubusercontent.com/112757107/202721793-1e09e6f4-c2a6-4df4-bbcb-f5fc12b9cd03.png)
+
+![Screenshot (127)](https://user-images.githubusercontent.com/112757107/204131579-b764cb5d-26d1-481c-b4ac-85f54ca2e4e7.png)
 
 ### About Us -
 
-![Screenshot (121)](https://user-images.githubusercontent.com/112757107/202721909-f80d12c1-0e36-4769-8ff1-ddeeff3db421.png)
+
+![Screenshot (129)](https://user-images.githubusercontent.com/112757107/204131586-a8269bf9-6019-405a-9571-3315b237718e.png)
 
 ### Furnitures -
 
 
-![Screenshot (122)](https://user-images.githubusercontent.com/112757107/202722067-e32fe4b8-bcff-4c18-9094-580f79951540.png)
+![Screenshot (130)](https://user-images.githubusercontent.com/112757107/204131595-65b61ecb-29c8-4364-9a9d-829e0c752a61.png)
 
 
 ### customer reviews
 
 
-![Screenshot (123)](https://user-images.githubusercontent.com/112757107/202722044-73881e64-3706-42c7-aa6d-e37c20f73b62.png)
+![Screenshot (131)](https://user-images.githubusercontent.com/112757107/204131599-ae1ee972-e655-4f99-bb90-9e9075739166.png)
+
+### Live chart
+
+
+![Screenshot (132)](https://user-images.githubusercontent.com/112757107/204131612-b9492f5c-7a32-422a-8cf4-1ba4f636e316.png)
 
 
 ### Contact us -
 
 
-![Screenshot (124)](https://user-images.githubusercontent.com/112757107/202722153-36ad4242-38a3-4959-9f6a-4e63d7b8decc.png)
+![Screenshot (128)](https://user-images.githubusercontent.com/112757107/204131615-b522207c-cdff-4a7e-b047-dff631c6f677.png)
+
 
 
 ## Tech Stack 💻
