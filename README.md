@@ -7,11 +7,12 @@ This is a web based application developed for health related based website in in
 
 **Project Link** -  https://yellow-grass-0f15a6200.2.azurestaticapps.net
 
-**project demo video link** -  
+**project demo video link** -  https://youtu.be/ZS17UY_7q-Q
 
 ## Azure technologies used for Project
 
 - Static web apps
+- Azure bot 
 
 ## Features and Functionalities 😃
 
