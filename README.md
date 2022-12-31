@@ -7,8 +7,7 @@ This is a web based application developed for ed tech related based website in i
 
 **Project Link** -  https://yellow-grass-0f15a6200.2.azurestaticapps.net
 
-**project demo video link** -  https://youtu.be/ZS17UY_7q-Q
-
+**project demo video link** - https://youtu.be/h_fGSanFqp8
 ## Azure technologies used for Project
 
 - Static web apps
